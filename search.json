@@ -1,15 +1,8 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home - Zihan Tang",
-    "section": "",
-    "text": "I am a second year PhD Student in Accounting, University of Minnesota — Carlson School of Management. I study how new accounting rules shape real decisions, with broader interests in financial institutions, risk management, and governance."
-  },
-  {
     "objectID": "index.html#education",
     "href": "index.html#education",
-    "title": "Home - Zihan Tang",
+    "title": "Hello, I’m Zihan Tang",
     "section": "Education",
     "text": "Education\n\nPh.D. in Accounting, University of Minnesota – Carlson School of Management\nJan 2024 – Present\nMaster in Financial Engineering, École Polytechnique Fédérale de Lausanne (EPFL)\nSep 2021 – Aug 2023\nHonors Bachelor of Mathematics, University of Waterloo\nSep 2018 – Aug 2021 · Major: Mathematical Finance & Statistics\n\n\nThis site is built with Quarto and hosted via GitHub Pages."
   },

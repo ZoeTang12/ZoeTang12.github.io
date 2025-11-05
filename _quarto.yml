@@ -5,7 +5,6 @@ project:
 website:
   title: "Zihan (Zoe) Tang"
   navbar:
-    logo: headshot.jpg
     right:
       - text: "Home"
         href: index.qmd
@@ -19,7 +18,7 @@ website:
 format:
   html:
     theme:
-      light: cosmo
+      light: flatly
       dark: darkly
     css: styles.css
     toc: true

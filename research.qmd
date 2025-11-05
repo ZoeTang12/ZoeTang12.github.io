@@ -3,7 +3,6 @@ title: "Research"
 page-layout: article
 ---
 
-## Research Interest
 
 Primarily, my research examines how new accounting standards and regulations shape firms’ and investors’ decisions. More broadly, I study **financial institutions, risk management, and corporate governance**. I am also enthusiastic about applying new technologies—such as large language models (LLMs) and AI—to accounting research.
 

@@ -3,7 +3,6 @@ title: "Contact"
 page-layout: article
 ---
 
-# Contact
 
 - **Email:** tang0832@umn.edu  
 - **GitHub:** <https://github.com/ZoeTang12>  

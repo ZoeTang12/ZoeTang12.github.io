@@ -1,16 +1,11 @@
 ---
-title: "Home"
+title: "Home - Zihan Tang"
 page-layout: article
 ---
 <div class="hero" markdown="1" style="display:flex; align-items:center; gap:18px; margin:10px 0 6px 0;"> <img src="headshot.jpg" alt="Zoe Tang" style="width:96px;height:96px; border-radius:50%; object-fit:cover; box-shadow:0 4px 14px rgba(0,0,0,.12);" />  </div>
 
-*Zihan (Zoe) Tang* 
-*PhD Student in Accounting, University of Minnesota — Carlson School of Management*
 
-
-
-
-I study how new accounting rules shape real decisions, with broader interests in financial institutions, risk management, and governance—and I apply LLMs/AI where they add leverage.
+I am a second year PhD Student in Accounting, University of Minnesota — Carlson School of Management. I study how new accounting rules shape real decisions, with broader interests in financial institutions, risk management, and governance—and I apply LLMs/AI where they add leverage.
 
 - **Email:** tang0832@umn.edu  
 - **GitHub:** <https://github.com/ZoeTang12>  
@@ -27,11 +22,5 @@ I study how new accounting rules shape real decisions, with broader interests in
 - **Honors Bachelor of Mathematics**, University of Waterloo  
   *Sep 2018 – Aug 2021* · Major: **Mathematical Finance & Statistics** 
 
-
-## Selected Projects
-
-- **Who Enforces Matters: Evidence from Insider-Trading Cases** — Micro-level *case × team × defendant* database (2011–2024) linking enforcement-team composition to civil/criminal outcomes; preliminary results and robustness in progress.
-
-- **Sentiment Analysis on Inflation after COVID-19** — Published in *Applied Economics and Finance* (2023).
 
 > This site is built with [Quarto](https://quarto.org/) and hosted via [GitHub Pages](https://pages.github.com/).

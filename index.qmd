@@ -1,0 +1,8 @@
+---
+title: "Home"
+page-layout: article
+---
+
+# Test
+
+Hello world — if you can see this, index rendering works.

@@ -1,0 +1,12 @@
+---
+title: "Contact"
+page-layout: article
+---
+
+# Contact
+
+- **Email:** tang0832@umn.edu  
+- **GitHub:** <https://github.com/ZoeTang12>  
+- **LinkedIn:** <https://www.linkedin.com/in/zihan-tang-972ba1220/>
+
+If you’re a student or potential collaborator, please include a line about your interests and the dataset or project you have in mind.

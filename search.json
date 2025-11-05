@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "PhD Student in Accounting, University of Minnesota — Carlson School of Management\nPrimarily, my research examines how new accounting standards and regulations shape firms’ and investors’ decisions. More broadly, I study financial institutions, risk management, and corporate governance. I am also enthusiastic about applying new technologies—such as large language models (LLMs) and AI—to accounting research.\n\nEmail: tang0832@umn.edu\n\nGitHub: https://github.com/ZoeTang12\n\nLinkedIn: https://www.linkedin.com/in/zihan-tang-972ba1220/\n\nCV (PDF): &lt;CV_Zihan_Tang.pdf&gt;\n\n\n\n\nWho Enforces Matters: Evidence from Insider-Trading Cases — Micro-level case × team × defendant database (2011–2024) linking enforcement-team composition to civil/criminal outcomes; preliminary results and robustness in progress.\nSentiment Analysis on Inflation after COVID-19 — Published in Applied Economics and Finance (2023).\n\n\nThis site is built with Quarto and hosted via GitHub Pages."
+  },
+  {
+    "objectID": "index.html#selected-projects",
+    "href": "index.html#selected-projects",
+    "title": "Home",
+    "section": "",
+    "text": "Who Enforces Matters: Evidence from Insider-Trading Cases — Micro-level case × team × defendant database (2011–2024) linking enforcement-team composition to civil/criminal outcomes; preliminary results and robustness in progress.\nSentiment Analysis on Inflation after COVID-19 — Published in Applied Economics and Finance (2023).\n\n\nThis site is built with Quarto and hosted via GitHub Pages."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Primarily, my research examines how new accounting standards and regulations shape firms’ and investors’ decisions. More broadly, I study financial institutions, risk management, and corporate governance. I am also enthusiastic about applying new technologies—such as large language models (LLMs) and AI—to accounting research.\n\n\nWho Enforces Matters: Evidence from Insider-Trading Cases\nZihan (Zoe) Tang\nWe assemble a micro-level case × team × defendant dataset (2011–2024) from SEC Litigation Releases and linked biographical sources to study how frontline enforcement-team composition relates to nine defendant-level outcomes (civil and criminal). Using Elastic-Net screening with post-selection OLS and two-way clustering, preliminary patterns suggest professionally balanced teams (investigation, accounting/forensics, data, trial) are associated with stronger criminal channels (parallel actions, incarceration) and larger monetary relief, controlling for venue and scale of illegal gains.\nStatus: preliminary; robustness and alternative specifications ongoing.\n\n\n\nSentiment Analysis on Inflation after COVID-19 (with Xinyu Li), Applied Economics and Finance, 10(1), 2023.\n\n\n\n\nGitHub profile: https://github.com/ZoeTang12\nReplication/teaching materials available upon request."
+  },
+  {
+    "objectID": "research.html#working-paper",
+    "href": "research.html#working-paper",
+    "title": "Research",
+    "section": "",
+    "text": "Who Enforces Matters: Evidence from Insider-Trading Cases\nZihan (Zoe) Tang\nWe assemble a micro-level case × team × defendant dataset (2011–2024) from SEC Litigation Releases and linked biographical sources to study how frontline enforcement-team composition relates to nine defendant-level outcomes (civil and criminal). Using Elastic-Net screening with post-selection OLS and two-way clustering, preliminary patterns suggest professionally balanced teams (investigation, accounting/forensics, data, trial) are associated with stronger criminal channels (parallel actions, incarceration) and larger monetary relief, controlling for venue and scale of illegal gains.\nStatus: preliminary; robustness and alternative specifications ongoing."
+  },
+  {
+    "objectID": "research.html#publication",
+    "href": "research.html#publication",
+    "title": "Research",
+    "section": "",
+    "text": "Sentiment Analysis on Inflation after COVID-19 (with Xinyu Li), Applied Economics and Finance, 10(1), 2023."
+  },
+  {
+    "objectID": "research.html#data-code",
+    "href": "research.html#data-code",
+    "title": "Research",
+    "section": "",
+    "text": "GitHub profile: https://github.com/ZoeTang12\nReplication/teaching materials available upon request."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact\n\nEmail: tang0832@umn.edu\n\nGitHub: https://github.com/ZoeTang12\n\nLinkedIn: https://www.linkedin.com/in/zihan-tang-972ba1220/\n\nIf you’re a student or potential collaborator, please include a line about your interests and the dataset or project you have in mind."
+  }
+]

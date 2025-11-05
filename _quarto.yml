@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: .
+
+website:
+  title: "Zihan (Zoe) Tang"
+  navbar:
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Contact"
+        href: contact.qmd
+      - text: "CV"
+        href: CV_Zihan_Tang.pdf
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    code-copy: true

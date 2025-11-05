@@ -8,9 +8,6 @@ page-layout: article
 - I am a second year PhD Student in Accounting at University of Minnesota Carlson School of Management. 
 - I study how new accounting rules shape real decisions, with broader interests in financial institutions, risk management, and governance.
 
-- **Email:** tang0832@umn.edu  
-- **GitHub:** <https://github.com/ZoeTang12>  
-- **LinkedIn:** <https://www.linkedin.com/in/zihan-tang-972ba1220/>  
 
 ## Education
 

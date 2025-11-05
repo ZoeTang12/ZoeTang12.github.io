@@ -3,6 +3,20 @@ title: "Home"
 page-layout: article
 ---
 
-# Test
+# Zihan (Zoe) Tang
+*PhD Student in Accounting, University of Minnesota — Carlson School of Management*
 
-Hello world — if you can see this, index rendering works.
+Primarily, my research examines how **new accounting standards and regulations** shape **firms’** and **investors’** decisions. More broadly, I study **financial institutions, risk management, and corporate governance**. I am also enthusiastic about applying **new technologies—such as large language models (LLMs) and AI—to accounting research**.
+
+- **Email:** tang0832@umn.edu  
+- **GitHub:** <https://github.com/ZoeTang12>  
+- **LinkedIn:** <https://www.linkedin.com/in/zihan-tang-972ba1220/>  
+- **CV (PDF):** <CV_Zihan_Tang.pdf>
+
+## Selected Projects
+
+- **Who Enforces Matters: Evidence from Insider-Trading Cases** — Micro-level *case × team × defendant* database (2011–2024) linking enforcement-team composition to civil/criminal outcomes; preliminary results and robustness in progress.
+
+- **Sentiment Analysis on Inflation after COVID-19** — Published in *Applied Economics and Finance* (2023).
+
+> This site is built with [Quarto](https://quarto.org/) and hosted via [GitHub Pages](https://pages.github.com/).

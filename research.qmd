@@ -5,7 +5,7 @@ page-layout: article
 
 # Research
 
-Primarily, my research examines how **new accounting standards and regulations** shape **firms’** and **investors’** decisions. More broadly, I study **financial institutions, risk management, and corporate governance**. I am also enthusiastic about applying **new technologies—such as large language models (LLMs) and AI—to accounting research**.
+Primarily, my research examines how new accounting standards and regulations** shape firms’ and investors’ decisions. More broadly, I study financial institutions, risk management, and corporate governance**. I am also enthusiastic about applying new technologies—such as large language models (LLMs) and AI—to accounting research.
 
 ## Working Paper
 **Who Enforces Matters: Evidence from Insider-Trading Cases**  

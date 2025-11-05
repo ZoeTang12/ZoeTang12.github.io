@@ -9,7 +9,7 @@ Primarily, my research examines how new accounting standards and regulations sha
 
 ## Working Paper
 **Who Enforces Matters: Evidence from Insider-Trading Cases**  
-*Zihan (Zoe) Tang*  
+*Zihan Tang*  
 We assemble a micro-level **case × team × defendant** dataset (2011–2024) from SEC Litigation Releases and linked biographical sources to study how frontline enforcement-team composition relates to nine defendant-level outcomes (civil and criminal). Using Elastic-Net screening with post-selection OLS and two-way clustering, preliminary patterns suggest professionally balanced teams (investigation, accounting/forensics, data, trial) are associated with stronger criminal channels (parallel actions, incarceration) and larger monetary relief, controlling for venue and scale of illegal gains.  
 *Status:* preliminary; robustness and alternative specifications ongoing.
 

@@ -32,7 +32,7 @@
     "href": "research.html#working-paper",
     "title": "Research",
     "section": "Working Paper",
-    "text": "Working Paper\nWho Enforces Matters: Evidence from Insider-Trading Cases\nZihan (Zoe) Tang\nWe assemble a micro-level case × team × defendant dataset (2011–2024) from SEC Litigation Releases and linked biographical sources to study how frontline enforcement-team composition relates to nine defendant-level outcomes (civil and criminal). Using Elastic-Net screening with post-selection OLS and two-way clustering, preliminary patterns suggest professionally balanced teams (investigation, accounting/forensics, data, trial) are associated with stronger criminal channels (parallel actions, incarceration) and larger monetary relief, controlling for venue and scale of illegal gains.\nStatus: preliminary; robustness and alternative specifications ongoing."
+    "text": "Working Paper\nWho Enforces Matters: Evidence from Insider-Trading Cases\nZihan Tang\nWe assemble a micro-level case × team × defendant dataset (2011–2024) from SEC Litigation Releases and linked biographical sources to study how frontline enforcement-team composition relates to nine defendant-level outcomes (civil and criminal). Using Elastic-Net screening with post-selection OLS and two-way clustering, preliminary patterns suggest professionally balanced teams (investigation, accounting/forensics, data, trial) are associated with stronger criminal channels (parallel actions, incarceration) and larger monetary relief, controlling for venue and scale of illegal gains.\nStatus: preliminary; robustness and alternative specifications ongoing."
   },
   {
     "objectID": "research.html#publication",

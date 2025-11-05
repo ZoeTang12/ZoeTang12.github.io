@@ -3,7 +3,7 @@ project:
   output-dir: .
 
 website:
-  title: "Zihan (Zoe) Tang"
+  title: "Zihan Tang"
   navbar:
     right:
       - text: "Home"
